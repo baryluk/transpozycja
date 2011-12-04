@@ -1,6 +1,10 @@
 -module(matrix).
 -author('baryluk@smp.if.uj.edu.pl').
 
+% Copyright (c) 2011, Witold Baryluk
+% All rights reserved.
+% Licensed under BSD license, see LICENSE for details.
+
 -export([tests_good_/0]).
 
 -export([mul/2, mul_vec/2]).

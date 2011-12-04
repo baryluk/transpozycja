@@ -1,6 +1,10 @@
 -module(transpozycja).
 -author('baryluk@smp.if.uj.edu.pl').
 
+% Copyright (c) 2011, Witold Baryluk
+% All rights reserved.
+% Licensed under BSD license, see LICENSE for details.
+
 -export([tr/1]).
 
 -export([tests_bad_/0]).
