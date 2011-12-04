@@ -1,0 +1,21 @@
+Simple transposition functionality for Erlang language
+
+
+
+> transpozycja:tr([ [a,b], [c,d] ]).
+[ [a,c], [b,d] ]
+
+Should work for all rectangural arrays.
+
+For handling of empty arrays like 0x0, 0xn, nx0,
+check source code.
+
+
+Also simpler matrix library is provided
+with functions on matrices (like multiplication,
+addition, linear combinations, etc.).
+
+
+
+
+I license it under BSD license
